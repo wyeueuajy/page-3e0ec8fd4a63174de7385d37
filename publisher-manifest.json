@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "a20c1e094bbca5853a1c34f6",
+  "owner": "wyeueuajy",
+  "repo": "page-3e0ec8fd4a63174de7385d37",
+  "title": "365VPN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3e0ec8fd4a63174de7385d37",
+      "a": "365VPN",
+      "b": "",
+      "entity": "365VPN",
+      "brand": "365VPN",
+      "separator": "",
+      "path": "index.html",
+      "hash": "0740e6c6d802d34c3466fecc0aa46ba03f8ecf719d46625153626f19437645bd",
+      "content": {
+        "keyword1": "365VPN",
+        "keyword2": "",
+        "primary_entity": "365VPN",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "365VPN 提供稳定VPN加速器服务，帮助用户畅享高速、安全的上网体验。支持多设备，解锁流媒体。",
+          "AI_DESCRIPTION": "365VPN 提供稳定VPN加速器服务，帮助用户畅享高速、安全的上网体验。支持多设备，解锁流媒体。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<nav>\n  <div>365VPN</div>\n  <div>\n    <a href=\"#\">首页</a>\n    <a href=\"#plans\">套餐</a>\n    <a href=\"#faq\">FAQ</a>\n    <a href=\"#download\">下载</a>\n  </div>\n</nav>\n\n<main>\n\n  <h1>365VPN</h1>\n  <p>稳定VPN加速器 客户端下载</p>\n\n  \n  <section>\n    <div>\n      <h2>欢迎使用365VPN</h2>\n      <p>提供稳定VPN加速服务，帮助用户轻松突破网络限制，享受高速安全连接。</p>\n      <a href=\"#plans\">查看套餐详情</a>\n    </div>\n    <div>\n      <p>立即下载客户端，开启您的加速之旅。</p>\n    </div>\n  </section>\n\n  \n  <section>\n    <div>\n      <h2>品牌简介</h2>\n      <p>365VPN 致力于为用户提供稳定、高速的VPN加速服务，帮助您轻松突破网络限制，享受畅快上网体验。</p>\n    </div>\n    <div>\n      <h3>核心特点</h3>\n      <ul>\n        <li>稳定网络连接</li>\n        <li>多设备支持</li>\n        <li>流媒体解锁</li>\n      </ul>\n    </div>\n  </section>\n\n  \n  <section>\n    <div>\n      <h2>使用场景</h2>\n      <p>适用于日常网页浏览、视频解锁、远程办公以及需要稳定连接的各类网络应用场景。</p>\n    </div>\n    <div>\n      <h3>推荐场景</h3>\n      <p>无论是在家办公还是出差，都能保持网络顺畅无阻。</p>\n    </div>\n  </section>\n\n  \n  <section>\n    <div>\n      <h2>操作说明</h2>\n      <ol>\n        <li>访问官网下载客户端</li>\n        <li>安装完成后登录您的账号</li>\n        <li>选择合适的节点进行连接</li>\n        <li>享受高速网络加速服务</li>\n      </ol>\n    </div>\n    <div>\n      <a href=\"#download\">立即下载客户端</a>\n    </div>\n  </section>\n\n  \n  <section id=\"plans\">\n    <h2>选择适合您的套餐</h2>\n    {{PLANS_HTML}}\n  </section>\n\n  \n  <section id=\"faq\">\n    <h2>常见问题 FAQ</h2>\n    <details>\n      <summary>365VPN 支持哪些设备？</summary>\n      <p>支持多台设备同时在线。</p>\n    </details>\n    <details>\n      <summary>如何选择合适的套餐？</summary>\n      <p>根据您的使用需求选择不同版本。</p>\n    </details>\n    <details>\n      <summary>流量如何使用？</summary>\n      <p>每月提供极速流量。</p>\n    </details>\n    <details>\n      <summary>如何获取客户支持？</summary>\n      <p>提供 7x24 优先工单支持。</p>\n    </details>\n    <details>\n      <summary>365VPN 如何解锁流媒体？</summary>\n      <p>支持解锁流媒体内容。</p>\n    </details>\n  </section>\n\n</main>\n\n<footer>\n  <div>\n    <h3>365VPN</h3>\n    <p>© 2024 365VPN 版权所有</p>\n    {{CLIENTS_HTML}}\n  </div>\n</footer>\n\n\n",
+          "hash": "a70db030e911ce57f8323f51efb77095423c51d275d571c2582a61720f1c61cb",
+          "seo": {
+            "title": "365VPN 官网 | 365VPN VPN 加速器 客户端下载",
+            "keywords": "365VPN, VPN加速器, 机场, 客户端下载, 官网",
+            "description": "365VPN 提供稳定VPN加速器服务，帮助用户畅享高速、安全的上网体验。支持多设备，解锁流媒体。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shangjiaedu.cn",
+    "host": "c.shangjiaedu.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "92e18354d4d7726132076e1b3a3ec4d623dd7642090bfc1af61e104e79abd3bd",
+    "sitemap.xml": "caa626d96dd5e367e8a79a85ac586931dddf4ff807749a6c3d2fbca42cd5e600",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a54d119b269af11950a3081e18a37887057088319bf2dbcdfca6b9270c4c4b90",
+    "robots.txt": "b82b5116c0fb9b666f9f0ffbdbbd132738f53d1e5af0eed0a3acc579e54cae11",
+    "c2bd15fc78d98fa2b6b63e88d9817024.txt": "cda7243678cfdd5fb08e1ec1f91e269606458a85d4a0734c43430accccf46e3e"
+  },
+  "revision": "eccfacdd1bd95c982a4fd687a7b2f3762bfc7b1d9ab317a1f563f4cb35273513"
+}
